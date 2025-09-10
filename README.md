@@ -1,4 +1,4 @@
-Full-Stack Configuration Manager
+##Full-Stack Configuration Manager
 A complete full-stack application built for CodeRower Software Pvt Ltd assignment. This application provides REST API endpoints to interact with MongoDB configurations and a React frontend to consume these APIs.
 
 🚀 Technologies Used
